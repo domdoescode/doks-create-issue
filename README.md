@@ -1,7 +1,7 @@
 Code generated for Doks project that does not run.
 
-Node version: v18.18.2
-NPM version: 9.8.1
+* Node version: v18.18.2
+* NPM version: 9.8.1
 
 Recreation steps:
 
